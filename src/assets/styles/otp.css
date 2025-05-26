@@ -1,0 +1,31 @@
+.otp-btn {
+  width: 472px;
+}
+
+
+.ant-otp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.ant-otp-input {
+  border-radius: 2px;
+  height: 58px!important;
+  width: 54px!important;
+  margin-right: 10px;
+}
+
+
+.resend-otp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(99, 99, 100, 1);
+
+}
+
+.sub-resend {
+   padding-bottom: 28px;
+}

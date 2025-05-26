@@ -1,0 +1,37 @@
+
+.title{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 28px;
+    line-height: 22px;
+}
+
+
+.forgot-link {
+    text-decoration: none;
+    color:rgba(96, 85, 242, 1);
+}
+
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: rgba(96, 85, 242, 1) !important;
+  border-color: rgba(96, 85, 242, 1) !important;
+}
+
+
+.ant-checkbox-inner {
+  border-color: rgba(96, 85, 242, 1) !important;
+}
+
+.no-hover-effect {
+  background: white !important;
+  box-shadow: none;
+  position: absolute;
+  right: 0;
+}
+.no-hover-effect:hover {
+  background: white !important;
+  border: none !important;
+  box-shadow: none !important; 
+}
